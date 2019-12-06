@@ -1,0 +1,10 @@
+{
+  "manifest_version":2,
+  "name": "speech",
+  "version": "1.0.0",
+  "description": "Speech desc",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+
+}
